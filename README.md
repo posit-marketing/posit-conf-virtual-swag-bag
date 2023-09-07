@@ -1,6 +1,6 @@
 # posit::conf(2023) Virtual Swag Bag
 
- The virtual experience of our hybrid conference is a unique experience that brings together R and Python enthusiasts from different countries, industries, and backgrounds to meet, chat, and share in the excitement of posit::conf(). Join our virtual networking starting on September 17, and talks and keynotes begin September 19!
+ The virtual experience of our hybrid conference is a unique experience that brings together R and Python enthusiasts from different countries, industries, and backgrounds to meet, chat, and share in the excitement of posit::conf(). Join our virtual networking starting on September 17, and talks livestreams beginning September 19!
 
 Registration is required to access the virtual event portal and networking opportunities. By registering for the conference, you gain access to:
 
