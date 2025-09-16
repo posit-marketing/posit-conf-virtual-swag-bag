@@ -1,6 +1,6 @@
-# posit::conf(2024) Virtual Swag Bag
+# posit::conf(2025) Virtual Swag Bag
 
- The virtual experience of our hybrid conference is a unique experience that brings together R and Python enthusiasts from different countries, industries, and backgrounds to meet, chat, and share in the excitement of posit::conf(). Join our virtual networking starting on August 12, and livestreams beginning August 13!
+ The virtual experience of our hybrid conference is a unique experience that brings together R and Python enthusiasts from different countries, industries, and backgrounds to meet, chat, and share in the excitement of posit::conf(). Join our virtual networking starting on August 12, and livestreams beginning September 16!
 
 Registration is required to access the virtual event portal and networking opportunities. By registering for the conference, you gain access to:
 
@@ -8,9 +8,10 @@ Registration is required to access the virtual event portal and networking oppor
 * On-demand recordings available shortly after the scheduled run time of keynotes and talks
 * Question and answer sessions alongside other attendees during the talks
 * The opportunity to chat, share, and learn with other attendees, no matter where they are, through our virtual networking platform 
+* A special Virtual Day on September 16
 
-[Register here!](https://reg.conf.posit.co/flow/posit/positconf24/reg/login)
+[Register here!](https://https://reg.conf.posit.co/flow/posit/positconf25/reg/login)
 
 Have fun with our virtual swag bag as you enjoy the amazing talks and connect with the fantastic community at the conference!
 
-![Text: posit conf 2024 Virtual Swag Bag; an outline of the Seattle skyline](virtual-swag-bag.png)
+![Text: posit conf 2025 Virtual Swag Bag; an outline of the Atlanta skyline](virtual-swag-bag.png)
